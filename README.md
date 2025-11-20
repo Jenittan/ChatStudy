@@ -98,7 +98,6 @@ while True:
             c.send(msg.encode())
 ```
 ## Output:
-![alt text](<Screenshot 2025-05-11 221500.png>)
 
 
 ## Result:
